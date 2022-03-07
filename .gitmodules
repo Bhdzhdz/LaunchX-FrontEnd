@@ -1,3 +1,7 @@
 [submodule "intro"]
 	path = intro
 	url = https://github.com/Bhdzhdz/LaunchX-FrontEnd-Intro
+
+[submodule "html"]
+	path = html
+	url = https://github.com/Bhdzhdz/LaunchX-FrontEnd-HTML
